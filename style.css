@@ -1,0 +1,18 @@
+.container {
+    margin: 32px;
+    display: flex;
+    justify-content: center;
+    outline: dashed 1px black;
+}
+
+.container video{
+    width: 80%;
+}
+
+.controls button{
+    padding: 8px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    margin: 0 4px;
+}

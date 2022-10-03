@@ -1,0 +1,24 @@
+{
+    "ads": [
+        {
+            "name": "Promo1-1.mkv",
+            "path": "https://josezattoo.s3.eu-central-1.amazonaws.com/Promo1-1.mkv"            
+        },
+        {
+            "name": "Promo1-1.webm",
+            "path": "https://josezattoo.s3.eu-central-1.amazonaws.com/Promo1-1.webm"            
+        },
+        {
+            "name": "Promo1-noweboptimized.mp4",
+            "path": "https://josezattoo.s3.eu-central-1.amazonaws.com/Promo1-noweboptimized.mp4"            
+        },
+        {
+            "name": "Promo1-weboptimized.mp4",
+            "path": "https://josezattoo.s3.eu-central-1.amazonaws.com/Promo1-weboptimized.mp4"            
+        },
+        {
+            "name": "promo1.mp4",
+            "path": "https://josezattoo.s3.eu-central-1.amazonaws.com/promo1.mp4"            
+        }
+    ]
+}
