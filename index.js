@@ -45,6 +45,10 @@ window.onload = function exampleFunction() {
         load("https://josezattoo.s3.eu-central-1.amazonaws.com/promo1.mp4")
     };
 
+    document.getElementById("ad2").onclick = function() {
+        load("https://josezattoo.s3.eu-central-1.amazonaws.com/ad2.mp4")
+    };
+
     function load(videoUrl) { 
         video.src = videoUrl;
         video.play()
